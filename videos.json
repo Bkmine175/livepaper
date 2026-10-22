@@ -1,12 +1,17 @@
-
 {
-  "version": 1,
-  "videos": [
-    {
-      "id": "funny3dcat",
-      "name": "Funny 3D Cat",
-      "url": "https://github.com/Bkmine175/livepaper/raw/287747d7f9482cd0cb23009a4d462844e9474f57/Funny3DCatVideo.mp4",
-      "thumbnail": ""
-    }
-  ]
+"version": 1,
+"videos": [
+{
+"id": "funny3dcat",
+"name": "Funny 3D Cat",
+"url": "https://github.com/Bkmine175/livepaper/raw/287747d7f9482cd0cb23009a4d462844e9474f57/Funny3D CatVideo.mp4",
+"thumbnail": ""
+},
+{
+"id": "catanimationrequest",
+"name": "Cat Animation Request",
+"url": "https://github.com/Bkmine175/livepaper/raw/d41cb0ebeed9cca8dd53433b8a26a2b6571c1418/CatAnimationRequest.mp4",
+"thumbnail": ""
+}
+]
 }
