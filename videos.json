@@ -1,5 +1,12 @@
 
 {
   "version": 1,
-  "videos": []
+  "videos": [
+    {
+      "id": "funny3dcat",
+      "name": "Funny 3D Cat",
+      "url": "https://github.com/Bkmine175/livepaper/raw/287747d7f9482cd0cb23009a4d462844e9474f57/Funny3DCatVideo.mp4",
+      "thumbnail": ""
+    }
+  ]
 }
